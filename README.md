@@ -1,7 +1,12 @@
-![logo](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aziz Ur Rehman</h1>
 <h3 align="center">🌍 Explorer of the digital cosmos, one commit at a time</h3>
-<img align="right" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif" alt="coding">
+<img align="right" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="coding">
 
 - 🏗️ Building the future one website at a time.
 
