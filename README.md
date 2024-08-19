@@ -1,8 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
-
-
-
-
+ <p align="center">
+  <img src="https://media.giphy.com/media/1ynAAhDkimGaI5CJPa/giphy.gif" alt="MasterHead" width="800" height="350">
+</p>
 
 <h1 align="center">Hi 👋, I'm Aziz Ur Rehman</h1>
 <h3 align="center">🌍 Explorer of the digital cosmos, one commit at a time</h3>
