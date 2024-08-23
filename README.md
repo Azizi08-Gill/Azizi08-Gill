@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aziz.ur.rehman.gill@gmail.com**
 
-- ⚡ Fun fact **Can solve a Rubik's Cube blindfolded.**
+- ⚡ Fun fact **Can't solve a Rubik's Cube blindfolded.**
 
 
 <h3 align="left">Connect with me:</h3>
