@@ -69,10 +69,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizi08-gill&show_icons=true&locale=en&layout=compact" alt="azizi08-gill" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=azizi08-gill&show_icons=true&locale=en" alt="azizi08-gill" /></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Azizi08-Gill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Azizi08-Gill&theme=dark&hide_border=false)<br/>
