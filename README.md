@@ -73,4 +73,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=azizi08-gill&show_icons=true&locale=en" alt="azizi08-gill" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizi08-gill&" alt="azizi08-gill" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Azizi08-Gill&theme=dark)](https://git.io/streak-stats)
