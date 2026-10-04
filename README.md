@@ -1,7 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:00f5d4&text=Aziz%20Ur%20Rehman&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Digital%20Cosmos%20Explorer&descSize=18&descAlignY=60&animation=fadeIn" alt="Aziz Ur Rehman header" width="100%"/>
+<img src="https://media.giphy.com/media/FsHE6KsPEY6uyQLG51/giphy.gif" alt="MasterHead" width="950" height="350">
+
+<h1>Hi 👋, I'm Aziz Ur Rehman</h1>
+<h3>🌍 Explorer of the digital cosmos, one commit at a time</h3>
 
 <a href="https://github.com/Azizi08-Gill">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&height=50&lines=Building+the+web+one+commit+at+a+time;Turning+coffee+into+clean+code;Crafting+experiences+that+leave+a+mark;Still+can't+solve+a+Rubik%27s+Cube+blindfolded" alt="Typing animation" />
