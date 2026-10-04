@@ -1,85 +1,148 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:00f5d4&text=Aziz%20Ur%20Rehman&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Digital%20Cosmos%20Explorer&descSize=18&descAlignY=60&animation=fadeIn" alt="Aziz Ur Rehman header" width="100%"/>
+
+<a href="https://github.com/Azizi08-Gill">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&height=50&lines=Building+the+web+one+commit+at+a+time;Turning+coffee+into+clean+code;Crafting+experiences+that+leave+a+mark;Still+can't+solve+a+Rubik%27s+Cube+blindfolded" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Azizi08-Gill&label=Profile%20views&color=00f5d4&style=for-the-badge&labelColor=0f2027" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Azizi08-Gill?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Azizi08-Gill?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027" alt="Stars"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT (terminal style) ═══════════════ -->
+## 🧑‍💻 `whoami`
+
+```js
+const aziz = {
+  name: "Aziz Ur Rehman",
+  role: "Full-Stack Web Developer",
+  mission: "Building the future, one website at a time",
+  superpower: "Unraveling the web one line of code at a time",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+  practice: ["LeetCode", "CodeChef"],
+  writes: "Articles on Medium",
+  funFact: "Can't solve a Rubik's Cube. Blindfolded? Not a chance.",
+  reachMe: "aziz.ur.rehman.gill@gmail.com",
+
+  isOpenToCollaboration() {
+    return true; // always, for good ideas
+  },
+};
+```
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🌐 Let's Connect
+
 <p align="center">
-  <img src="https://media.giphy.com/media/FsHE6KsPEY6uyQLG51/giphy.gif" alt="MasterHead" width="950" height="350">
+  <a href="mailto:aziz.ur.rehman.gill@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00f5d4" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aziz-ur-rehman-b84563225"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00f5d4" alt="LinkedIn"/></a>
+  <a href="https://x.com/azizigill47"><img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=00f5d4" alt="X"/></a>
+  <a href="https://medium.com/@aziz.ur.rehman.gill"><img src="https://img.shields.io/badge/Medium-0f2027?style=for-the-badge&logo=medium&logoColor=00f5d4" alt="Medium"/></a>
+  <a href="https://leetcode.com/u/azizigill47/"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00f5d4" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/string_sky_01"><img src="https://img.shields.io/badge/CodeChef-0f2027?style=for-the-badge&logo=codechef&logoColor=00f5d4" alt="CodeChef"/></a>
+  <a href="https://codesandbox.io/u/azizi08-gill"><img src="https://img.shields.io/badge/CodeSandbox-0f2027?style=for-the-badge&logo=codesandbox&logoColor=00f5d4" alt="CodeSandbox"/></a>
+  <a href="https://discord.gg/azizigill"><img src="https://img.shields.io/badge/Discord-0f2027?style=for-the-badge&logo=discord&logoColor=00f5d4" alt="Discord"/></a>
 </p>
 
+<br/>
 
-<h1 align="center">Hi 👋, I'm Aziz Ur Rehman</h1>
-<h3 align="center">🌍 Explorer of the digital cosmos, one commit at a time</h3>
-<img align="right" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="coding">
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Arsenal
 
-- 🏗️ Building the future one website at a time.
+<div align="center">
 
-- 🌟 Passionate about crafting online experiences that leave a mark.
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css&theme=dark" alt="Languages"/>
 
-- 🕸️ Unraveling the web one line of code at a time.
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
-- 📫 How to reach me **aziz.ur.rehman.gill@gmail.com**
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" alt="Backend"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48"/>
 
-- ⚡ Fun fact **Can't solve a Rubik's Cube - blindfolded.**
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools"/>
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/azizigill47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/azizigill47" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/aziz-ur-rehman-b84563225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aziz-ur-rehman-b84563225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/azizi08-gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/azizi08-gill" height="30" width="40" /></a>
-<a href="https://medium.com/@aziz.ur.rehman.gill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@aziz.ur.rehman.gill" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/string_sky_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/string_sky_01" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/azizigill47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/azizigill47/" height="30" width="40" /></a>
-<a href="https://discord.gg/azizigill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="azizigill" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 The Numbers
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azizi08-Gill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Azizi08-Gill&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizi08-Gill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azizi08-Gill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizi08-Gill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4" alt="Top languages"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://streak-stats.demolab.com?user=Azizi08-Gill&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="Streak stats"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Azizi08-Gill&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizi08-Gill&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="Contribution graph" width="100%"/>
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azizigill) 
+</div>
 
+<details>
+<summary><b>🏆 Trophy shelf (click to open)</b></summary>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Azizi08-Gill&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+</details>
 
+<details>
+<summary><b>🧩 LeetCode progress (click to open)</b></summary>
+<br/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/azizigill47?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
+</div>
+</details>
+
+<br/>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azizi08-Gill/Azizi08-Gill/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azizi08-Gill/Azizi08-Gill/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Azizi08-Gill/Azizi08-Gill/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════ QUOTE ═══════════════ -->
+## ✍️ Dev Wisdom of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+
+```text
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00f5d4,50:203a43,100:0f2027" alt="Footer wave" width="100%"/>
+
+</div>
