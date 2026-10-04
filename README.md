@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Azizi08-Gill&label=Profile%20views&color=00f5d4&style=for-the-badge&labelColor=0f2027" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Azizi08-Gill?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Azizi08-Gill?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Azizi08-Gill&label=Profile%20views&color=FFE14D&style=for-the-badge&labelColor=0d1117" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Azizi08-Gill?style=for-the-badge&logo=github&color=FFE14D&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Azizi08-Gill?style=for-the-badge&logo=github&color=FFE14D&labelColor=0d1117" alt="Stars"/>
 
 </div>
 
@@ -47,14 +47,14 @@ const aziz = {
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:aziz.ur.rehman.gill@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00f5d4" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/aziz-ur-rehman-b84563225"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00f5d4" alt="LinkedIn"/></a>
-  <a href="https://x.com/azizigill47"><img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=00f5d4" alt="X"/></a>
-  <a href="https://medium.com/@aziz.ur.rehman.gill"><img src="https://img.shields.io/badge/Medium-0f2027?style=for-the-badge&logo=medium&logoColor=00f5d4" alt="Medium"/></a>
-  <a href="https://leetcode.com/u/azizigill47/"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00f5d4" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/string_sky_01"><img src="https://img.shields.io/badge/CodeChef-0f2027?style=for-the-badge&logo=codechef&logoColor=00f5d4" alt="CodeChef"/></a>
-  <a href="https://codesandbox.io/u/azizi08-gill"><img src="https://img.shields.io/badge/CodeSandbox-0f2027?style=for-the-badge&logo=codesandbox&logoColor=00f5d4" alt="CodeSandbox"/></a>
-  <a href="https://discord.gg/azizigill"><img src="https://img.shields.io/badge/Discord-0f2027?style=for-the-badge&logo=discord&logoColor=00f5d4" alt="Discord"/></a>
+  <a href="mailto:aziz.ur.rehman.gill@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FFE14D" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aziz-ur-rehman-b84563225"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFE14D" alt="LinkedIn"/></a>
+  <a href="https://x.com/azizigill47"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=FFE14D" alt="X"/></a>
+  <a href="https://medium.com/@aziz.ur.rehman.gill"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=FFE14D" alt="Medium"/></a>
+  <a href="https://leetcode.com/u/azizigill47/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFE14D" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/string_sky_01"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=FFE14D" alt="CodeChef"/></a>
+  <a href="https://codesandbox.io/u/azizi08-gill"><img src="https://img.shields.io/badge/CodeSandbox-0d1117?style=for-the-badge&logo=codesandbox&logoColor=FFE14D" alt="CodeSandbox"/></a>
+  <a href="https://discord.gg/azizigill"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=FFE14D" alt="Discord"/></a>
 </p>
 
 <br/>
@@ -85,12 +85,12 @@ const aziz = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azizi08-Gill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizi08-Gill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azizi08-Gill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE14D&icon_color=FFE14D" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizi08-Gill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFE14D" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Azizi08-Gill&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Azizi08-Gill&theme=tokyonight&hide_border=true&background=0d1117&ring=FFE14D&fire=FFE14D&currStreakLabel=FFE14D" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizi08-Gill&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizi08-Gill&bg_color=0d1117&color=FFE14D&line=FFE14D&point=ffffff&area=true&area_color=FFE14D&hide_border=true" alt="Contribution graph" width="100%"/>
 
 </div>
 
@@ -129,7 +129,7 @@ const aziz = {
 ## ✍️ Dev Wisdom of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
 </div>
 
 <br/>
@@ -146,6 +146,6 @@ while (alive) {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00f5d4,50:203a43,100:0f2027" alt="Footer wave" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:FFE14D,50:2b2a1f,100:0d1117" alt="Footer wave" width="100%"/>
 
 </div>
